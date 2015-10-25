@@ -1,0 +1,72 @@
+body {
+		background-color: black;
+		color:white;
+		margin-left: 5%;
+		margin-right: 5%;
+		width: 90%;
+		text-align: center;
+}
+
+}
+
+.scroll{
+		text-align: center;
+		margin-top: 6%;
+}
+
+.about{
+		font-family:helvetica neue;
+		margin-bottom: 5%;
+		text-align: center;
+		font-size: 53;
+	}
+
+.linkstyle{
+		font-size: 55px;
+}
+
+
+h1{
+	font-size: 50px;
+	text-align: center;
+	font-family:helvetica neue;
+	}
+
+.name{
+	font-size: 100px;
+	font-family: helvetica neue ultralight;
+}
+
+.image1{
+	display: flex;
+  justify-content: center;
+}
+
+.image2{
+	display: flex;
+  justify-content: center;
+}
+
+.image3{
+	display: flex;
+  justify-content: center;
+}
+
+a:hover {background-color: white;}
+
+.linkedin{
+	margin-top: 5%;
+}
+
+.title{
+	margin-bottom: 3%;
+}
+
+.aboutme{
+	color:white;
+	font-size: 20;
+}
+
+
+
+
